@@ -1,0 +1,5 @@
+.parking__container, .car__container{
+    background: red;
+    width: 90%;
+    margin: auto;
+}

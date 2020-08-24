@@ -1,0 +1,12 @@
+.image__container{
+    margin:  114px auto 50px auto;
+    width: 301px;
+}
+
+.image__container > img{
+    max-width: 300px;
+}
+
+.image__container--car > img {
+    max-width: 353px;
+}
